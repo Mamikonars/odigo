@@ -1257,10 +1257,10 @@ INPUT[type="text"] {
 	.footer__nav_list {
 		display: block;
 		margin: 0 auto 6%;
-	}
-	
+	}	
+}
+
 @media screen and (max-height: 460px) {
 	.active-menu ul {
 		 margin-top: 3%;
-	}	
 }
