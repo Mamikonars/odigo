@@ -1249,7 +1249,7 @@ INPUT[type="text"] {
 @media screen and (max-width: 360px) {
 	.footer__nav {
 		/* justify-content: space-between; */
-		width: 100%;
+		width: 870%;
 		margin: 4% auto;
 		font-size: 1.3em;
 	}
